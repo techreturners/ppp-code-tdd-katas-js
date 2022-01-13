@@ -1,0 +1,9 @@
+{
+  "name": "tdd-style-katas-js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
