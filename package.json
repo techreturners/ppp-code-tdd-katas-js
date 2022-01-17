@@ -1,7 +1,7 @@
 {
   "name": "tdd-style-katas-js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "devDependencies": {
     "jest": "^27.3.1"
