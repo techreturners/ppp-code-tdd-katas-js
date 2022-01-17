@@ -1,18 +1,7 @@
-// In this kata you will have to create a function that returns the same numbers that 
-// are given as a parameter, but with exceptions:
-
-// If number doesn't divide evenly with 3 or 5 - return original input number
-// If number divides evenly with 3 - returns string "fizz"
-// If number divides evenly with 5 - returns string "buzz"
-// If number divides evenly with 3 and 5 - returns string "fizz buzz"
-// Sample cases:
-
-// fizzbuzz(1)==1
-// fizzbuzz(9)=="fizz"
-// fizzbuzz(25)=="buzz"
-// fizzbuzz(37)==37
-// fizzbuzz(45)=="fizz buzz"
-// fizzbuzz(139)==139
+// Write a program that prints one line for each number from 1 to 100
+// For multiples of three print Fizz instead of the number
+// For the multiples of five print Buzz instead of the number
+// For numbers which are multiples of both three and five print FizzBuzz instead of the number
 
 
 function fizzBuzz(n) {
